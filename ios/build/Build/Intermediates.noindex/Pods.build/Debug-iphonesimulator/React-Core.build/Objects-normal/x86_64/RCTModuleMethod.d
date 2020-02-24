@@ -1,0 +1,34 @@
+dependencies: \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTBridgeMethod.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTNullability.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTAssert.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTConvert.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTLog.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/React/Base/RCTUtils.h

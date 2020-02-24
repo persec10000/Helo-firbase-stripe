@@ -1,0 +1,35 @@
+dependencies: \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Volumes/Work/Work/Heloapp/heloappOld/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Folly/folly/Optional.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Folly/folly/Portability.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Folly/folly/portability/Config.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Folly/folly/CPortability.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Folly/folly/Traits.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Folly/folly/Utility.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Folly/folly/lang/Exception.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Folly/folly/CppAttributes.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h

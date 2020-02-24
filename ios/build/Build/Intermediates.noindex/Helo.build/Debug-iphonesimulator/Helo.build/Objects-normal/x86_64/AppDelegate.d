@@ -1,0 +1,23 @@
+dependencies: \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Helo/AppDelegate.m \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Helo/AppDelegate.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMCore/UMModuleRegistryProvider.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMCore/UMModuleRegistry.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMCore/UMInternalModule.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMCore/UMDefines.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMCore/UMExportedModule.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMCore/UMViewManager.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMCore/UMModuleRegistryDelegate.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMCore/UMSingletonModule.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMCore/UMAppDelegateWrapper.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTBundleURLProvider.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/Work/Work/Heloapp/heloappOld/ios/Pods/Headers/Public/UMReactNativeAdapter/UMNativeModulesProxy.h
